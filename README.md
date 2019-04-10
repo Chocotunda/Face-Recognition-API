@@ -14,8 +14,8 @@ Server is deployed using Heroku
 
 
 ## API resource:
-- [Clairifai](https://clarifai.com/)
-API to find faces in images.
+- [Clairifai API](https://clarifai.com/)
+ to find faces in images.
 
 ## Routing endpoints:
 - GET('/')
