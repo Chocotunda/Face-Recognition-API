@@ -23,7 +23,7 @@ API to find faces in images.
 - PUT('/image')
 - POST('/imageurl')
 
-## PostgreSQL Tables:
+## PostgreSQL tables:
 - Users
 
 
