@@ -1,5 +1,5 @@
 # Face-Recognition-API
-API Server for the [Face-Recognition web app](https://github.com/Chocotunda/Face-Recognition).
+REST API Server for the [Face-Recognition web app](https://github.com/Chocotunda/Face-Recognition).
 
 Server uses PostgreSQL for database. It holds data of the registered users and hashes the passwords using Bcrypt. It also keeps count of the number of entries of each user.
 
